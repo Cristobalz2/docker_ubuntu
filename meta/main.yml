@@ -1,9 +1,7 @@
 galaxy_info:
   author: Cristobal Zuluaga
   description: Rol for installation of docker in Ubuntu
-
-
-
+  company: Devops
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
   # issue_tracker_url: http://example.com/issue/tracker
@@ -51,4 +49,3 @@ galaxy_info:
 dependencies: []
   # List your role dependencies here, one per line. Be sure to remove the '[]' above,
   # if you add dependencies to this list.
-  
