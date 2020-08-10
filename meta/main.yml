@@ -1,7 +1,8 @@
 galaxy_info:
   author: Cristobal Zuluaga
-  description: Rol for installation of docker in Ubunto 20.04
-  company: Devops
+  description: Rol for installation of docker in Ubuntu
+
+
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
@@ -28,9 +29,9 @@ galaxy_info:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
   platforms:
-  - name: Ubuntu
-    versions:
-    - 20.04
+  # - name: Fedora
+  #   versions:
+  #   - all
   #   - 25
   # - name: SomePlatform
   #   versions:
